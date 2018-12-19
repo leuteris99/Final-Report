@@ -60,14 +60,14 @@
  ## Παραδοτέο 1
 
  - [x] Αλλάξτε τα χρώματα στα 3 γραφήματα.
- ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/colors.png)
+ ![default](https://github.com/leuteris99/Final-Report/blob/master/images/colors.png)
  - [x] Αντικαταστήστε τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος με άλλες της επιλογής σας.
- ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/buttons.png)
+ ![default](https://github.com/leuteris99/Final-Report/blob/master/images/buttons.png)
  - [x] Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, να ακούγεται κάποιος ήχος της επιλογής σας.
  - [x] Όταν το ποντίκι διέρχεται πάνω από κάποια πρόταση/κείμενο της σελίδας ή περιοχή που περιλαμβάνει γραπτή πληροφορία
  (π.χ. κάποιο τμήμα γραφήματος), να ακούγεται αυτόματα η αφήγηση του κειμένου (text-to-speech).
  - [x] Εφαρμόστε responsive design στη σελίδα και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
- ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/responsive-design.jpg)
+ ![default](https://github.com/leuteris99/Final-Report/blob/master/images/responsive-design.jpg)
  
  ### Υποσημειώση (προβλήματα)
  1. Στο Chrome 66 ή νεότερο ο browser απαγορεύει στην σελίδα να παιζεί media files πριν ο χρήστης αλληλεπιδράση με την σελίδα(π.χ. να
@@ -84,7 +84,7 @@
 
  ### Horizontal Bar Chart
 
- ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/new_chart_1.png)
+ ![default](https://github.com/leuteris99/Final-Report/blob/master/images/new_chart_1.png)
 
  Έφτιαξα ένα διάγραμμα με οριζόντιες μπάρες όπου όταν ο χρήστη βάζει το ποντίκι πάνο από μια μπάρα,
  η μπάρα μεγαλώνει και αναγράφονται τα δεδομένα μέσα σε αυτή.
@@ -94,11 +94,11 @@
  Στο δεύτερο διάγραμμα έφτιαξα τον χάρτη των ΗΠΑ , όπου ο χρήστης μπορεί να βάλει το ποντίκι πάνω
  από μια πολίτεια και δίπλα να εμφανιστούν τα στατιστικά για την πολιτεία αυτή.
 
- ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/new_chart_2.png)
+ ![default](https://github.com/leuteris99/Final-Report/blob/master/images/new_chart_2.png)
 
  ### Triple Pie Chart
 
- ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/new_chart_3.png)
+ ![default](https://github.com/leuteris99/Final-Report/blob/master/images/new_chart_3.png)
 
  Στης 2 πρώτες "πίτες" περιέχονται τα ποσοστά κάθε πολιτείας (στην πρώτη για τις πολιτείες από A εώς M, στην δεύτερη φια της πολιτείες
  από N εώς W),
@@ -115,7 +115,7 @@
  (http://www.statistics.gr/el/statistics/-/publication/SEL15/-)).
  Το κάθε σημείο στην κάθε χρονία δείχνει το ΑΕΠ σε εκατομμύρια ευρό.
  
- ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/gdp-gr.png)
+ ![default](https://github.com/leuteris99/Final-Report/blob/master/images/gdp-gr.png)
 
  ### Vertical Bar Chart
 
@@ -124,7 +124,7 @@
  (http://www.statistics.gr/el/statistics/-/publication/SJO02/-)).
  Η κάθε μπάρα δείχνεί το ποσοστό ανεργίας στην αναφερόμενη χρονιά.
 
- ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/unemployment-gr.png)
+ ![default](https://github.com/leuteris99/Final-Report/blob/master/images/unemployment-gr.png)
 
  ### Bubble Chart
 
@@ -137,5 +137,5 @@
  Όταν ο χρήστης βάζει το ποντίκι πάνω από μια φούσκα τότε εμφανίζονται πληροφορίες με το όνομα το κράτους (ή ομάδας κρατών) 
  και το ΑΕΠ του.
  
- ![default](https://github.com/leuteris99/hci/blob/2017143/projects/2017143/images/gdp-eu.png)
+ ![default](https://github.com/leuteris99/Final-Report/blob/master/images/gdp-eu.png)
  
